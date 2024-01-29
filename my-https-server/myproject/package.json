@@ -1,0 +1,19 @@
+{
+  "name": "myproject",
+  "version": "1.0.0",
+  "description": "Una breve descripción de mi proyecto",
+  "main": "math.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [
+    "proyecto",
+    "javascript",
+    "jest"
+  ],
+  "author": "Alona",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
